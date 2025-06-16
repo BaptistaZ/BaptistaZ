@@ -115,6 +115,8 @@
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=baptistaz&theme=radical&hide_border=true" />
 </div>
 
+![Snake animation]()
+
 ---
 
 ## 🏆 Troféus
