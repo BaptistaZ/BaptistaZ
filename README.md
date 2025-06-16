@@ -115,7 +115,8 @@
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=baptistaz&theme=radical&hide_border=true" />
 </div>
 
-![Snake animation](https://github.com/BaptistaZ/BaptistaZ/blob/main/.github/workflows/main.yml)
+![Snake animation](https://raw.githubusercontent.com/BaptistaZ/BaptistaZ/output/dist/cobra.svg)
+
 
 ---
 
