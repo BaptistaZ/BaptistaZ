@@ -15,7 +15,6 @@
 ## 🚀 Sobre mim
 
 * 🔭  Actualmente a trabalhar em **projectos académicos**
-* 🌱  A aprofundar conhecimentos em **DevOps & Cloud**
 * 📫  Contacta‑me: **[tiagobaptista@ipvc.pt](mailto:tiagobaptista@ipvc.pt)**
 
 ## 🌐 Liga‑te a mim
@@ -115,7 +114,13 @@
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=baptistaz&theme=radical&hide_border=true" />
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/BaptistaZ/BaptistaZ/output/dist/cobra.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BaptistaZ/BaptistaZ/refs/heads/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BaptistaZ/BaptistaZ/refs/heads/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/BaptistaZ/BaptistaZ/refs/heads/output/github-snake.svg" />
+</picture>
+
 
 
 ---
