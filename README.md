@@ -1,31 +1,31 @@
-<h1 align="center">Olá 👋, eu sou o Tiago Baptista</h1>
-<h3 align="center">Estudante de Engenharia Informática @ IPVC</h3>
+<h1 align="center">Hi 👋, I'm Tiago Baptista</h1>
+<h3 align="center">Computer Engineering Student @ IPVC</h3>
 
 <p align="center">
   <a href="https://github.com/baptistaz?tab=followers">
-    <img src="https://img.shields.io/github/followers/baptistaz?label=Seguidores&style=social" alt="Seguidores">
+    <img src="https://img.shields.io/github/followers/baptistaz?label=Followers&style=social" alt="Followers">
   </a>
   <a href="https://komarev.com/ghpvc/?username=baptistaz">
-    <img src="https://komarev.com/ghpvc/?username=baptistaz&style=flat&color=blue" alt="Visualizações de perfil">
+    <img src="https://komarev.com/ghpvc/?username=baptistaz&style=flat&color=blue" alt="Profile views">
   </a>
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-* 🔭  Actualmente a trabalhar em **projectos académicos**
-* 📫  Contacta‑me: **[tiagobaptista@ipvc.pt](mailto:tiagobaptista@ipvc.pt)**
+* 🔭  Currently working on **academic projects**
+* 📫  Contact me: **[tiagobaptista@ipvc.pt](mailto:tiagobaptista@ipvc.pt)**
 
-## 🌐 Liga‑te a mim
+## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tiago-baptista-18823a318/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge\&logo=kaggle\&logoColor=white)](https://www.kaggle.com/tiagobaptista11)
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
 <details>
-<summary><strong>👑 Linguagens</strong></summary>
+<summary><strong>👑 Languages</strong></summary>
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
@@ -42,7 +42,7 @@
 </details>
 
 <details>
-<summary><strong>🖥️ Frameworks & Bibliotecas</strong></summary>
+<summary><strong>🖥️ Frameworks & Libraries</strong></summary>
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
@@ -61,7 +61,7 @@
 </details>
 
 <details>
-<summary><strong>📦 Bases de Dados</strong></summary>
+<summary><strong>📦 Databases</strong></summary>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
@@ -77,7 +77,7 @@
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![Scikit‑Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge\&logo=seaborn\&logoColor=white)
 
@@ -95,7 +95,7 @@
 </details>
 
 <details>
-<summary><strong>🛠️ Outras Ferramentas</strong></summary>
+<summary><strong>🛠️ Other Tools</strong></summary>
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
@@ -106,7 +106,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=baptistaz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
@@ -114,23 +114,20 @@
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=baptistaz&theme=radical&hide_border=true" />
 </div>
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BaptistaZ/BaptistaZ/refs/heads/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BaptistaZ/BaptistaZ/refs/heads/output/github-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/BaptistaZ/BaptistaZ/refs/heads/output/github-snake.svg" />
 </picture>
 
-
-
 ---
 
-## 🏆 Troféus
+## 🏆 Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=baptistaz&theme=onedark&row=1&column=6" />
 </p>
 
-<!-- Se quiseres adicionar o gráfico de actividade, descomenta a linha seguinte -->
+<!-- If you want to add the activity graph, uncomment the following line -->
 
 <!-- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=baptistaz&theme=github-compact) -->
